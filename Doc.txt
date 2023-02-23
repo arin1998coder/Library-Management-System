@@ -1,0 +1,14 @@
+Features likely to add:
+
+1.When username provided is duplicate: suggest some alternative usernames.
+2.Login Using social credentials like google,facebook, etc
+3.OTP based login
+
+4.In VIew All REcords panel: Once i provide fromdate and todate- i search- i get results based on date
+range. Problem is: once i clear the from date and to date  and clik Search- i want it to display all
+records but it is displaying the last search result. Need to find a solution for this.
+
+5.in Home Page, it should show "Welcome, <Name of Logged in User>".
+
+6.Create a student portal so they can login also, so that they could see the books they have issued, books they 
+have to return and fine amt they have to pay if their due date is over.
